@@ -1,0 +1,3 @@
+﻿  HelloGL.cpp
+d:\opengl\learnproject\openglproject\helloopengl\hellogl.cpp(99): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  HelloOpenGL.vcxproj -> D:\OpenGL\LearnProject\OpenGLProject\Debug\HelloOpenGL.exe
